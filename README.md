@@ -424,6 +424,14 @@ The extracted fields are written back to the candidate record in SharePoint.
 
 ---
 
+## Detailed Implementation Reference
+
+For the complete technical reconstruction guide—including workflow sequences, MindStudio variables, SharePoint schemas, Microsoft Graph operations, n8n expressions, safeguards, validation checks, and troubleshooting notes—see:
+
+**[View the implementation guide](docs/IMPLEMENTATION_GUIDE.md)**
+
+---
+
 ## Repository Structure
 
 ```text
